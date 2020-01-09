@@ -1,0 +1,22 @@
+{
+  "name": "electron_test",
+  "version": "1.0.0",
+  "description": "a test app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankbass/electron_test.git"
+  },
+  "author": "Michael Tuttle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankbass/electron_test/issues"
+  },
+  "homepage": "https://github.com/frankbass/electron_test#readme",
+  "dependencies": {
+    "electron": "^7.1.8"
+  }
+}
